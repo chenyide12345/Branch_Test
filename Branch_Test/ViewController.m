@@ -21,6 +21,8 @@
     
     NSLog(@"第二次操作");
     
+    NSLog(@"第3次操作");
+    
 }
 
 - (void)sayBye
